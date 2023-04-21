@@ -1,3 +1,4 @@
-module github.com/uia-worker/is105sem03
+module go.mod
 
 go 1.19
+
